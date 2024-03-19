@@ -7,19 +7,24 @@ function printValue(value){
 //TODO: ADD fixed variable
 const fixedNumber = 10;
 console.log(fixedNumber)
+
 //TODO: ADD redeclarable variable
 let redeclarableBoolean = true;
 console.log(redeclarableBoolean)
+
 //TODO: ADD re-assignable but not redeclarable variable
 const reassignableString = 'Hello, World!';
 console.log(reassignableString)
+
 // 2.0 DIFFERENT DATA TYPES
 //TODO: Create a fixed variable with a number value
 const fixedNumberValue = 42;
 console.log(fixedNumber)
+
 //TODO: Create a redeclarable variable with a boolean value
 let redeclarableBooleanValue = true;
 console.log(redeclarableBooleanValue)
+
 //TODO: Create a re-assignable variable with a string value
 let reassignableStringValue = 'Hello, World!';
 console.log(reassignableStringValue)
